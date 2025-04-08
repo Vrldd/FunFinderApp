@@ -68,7 +68,7 @@ Telefonu elinden bıraktığında 1 dakika içinde uygulama otomatik olarak kili
 
 ## ✅ Sonuç ve Katkı
 
-Keykeep, kullanıcıların şifrelerini tamamen cihazlarında ve güvenli bir biçimde saklamalarını sağlayan özgün ve kullanıcı dostu bir uygulamadır. Bu proje, kullanıcı gizliliğine duyarlı, çevrimdışı kullanılabilen ve modern güvenlik standartlarına uygun bir mobil uygulama örneğidir.
+Keykeep, internet bağlantısına ihtiyaç duymadan çalışan, cihaz içinde güvenli şekilde şifre saklamayı sağlayan bir uygulamadır. Kullanıcıların dijital güvenliğini artırırken aynı zamanda kullanımı kolay ve hızlı bir çözüm sunar. Yerel çalışması sayesinde veri sızıntısı riskini minimize eder. Bu proje, mobil güvenlik ve kullanıcı mahremiyeti odaklı uygulama geliştirme alanına somut bir katkı sağlayacaktır.
 
 ---
 
