@@ -59,11 +59,10 @@ Telefonu elinden bıraktığında 1 dakika içinde uygulama otomatik olarak kili
 | 2. Hafta  | Veritabanı modeli ve şifreleme altyapısı geliştirme                 |
 | 3. Hafta  | Ana şifre girişi ve doğrulama sistemi                                |
 | 4. Hafta  | Şifre ekleme/silme/güncelleme işlemleri                              |
-| 5. Hafta  | Şifre üretici modülü ve kategori sistemi                             |
-| 6. Hafta  | Otomatik kilitlenme ve güvenlik özellikleri                          |
-| 7. Hafta  | Arayüz iyileştirmeleri ve karanlık mod desteği                       |
-| 8. Hafta  | Testler, hata ayıklama ve dokümantasyon                              |
-| 9. Hafta  | Sunum ve proje teslimi                                               |
+| 5. Hafta  | Otomatik kilitlenme ve güvenlik özellikleri                          |
+| 6. Hafta  | Arayüz iyileştirmeleri ve karanlık mod desteği                       |
+| 7. Hafta  | Testler, hata ayıklama ve dokümantasyon                              |
+| 8. Hafta  | Sunum ve proje teslimi                                               |
 
 ---
 
