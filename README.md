@@ -1,6 +1,6 @@
 # 🎈 FunFinder – Akıllı Çocuk Etkinlik ve İçerik Öneri Uygulaması
 
-FunFinder, ebeveynlerin çocukları için yaşa ve ilgi alanına uygun **oyun, video ve açık hava etkinlikleri** bulmalarını sağlayan sohbet tabanlı bir mobil yardımcıdır. Uygulama, ChatGPT destekli sohbet arayüzü ve özel öneri butonları ile çocuklara uygun içeriklere saniyeler içinde ulaşmayı mümkün kılar.
+FunFinder, ebeveynlerin çocukları için yaşa ve ilgi alanına uygun **oyun, video ve açık hava etkinlikleri** bulmalarını sağlayan sohbet tabanlı bir mobil yardımcıdır. Uygulama, ChatBOT destekli sohbet arayüzü ve özel öneri butonları ile çocuklara uygun içeriklere saniyeler içinde ulaşmayı mümkün kılar.
 
 ---
 
@@ -23,19 +23,19 @@ FunFinder bu probleme çözüm olarak, ebeveynlerin tek tıkla çocuklarına öz
 
 ## ⚙️ Uygulama Özellikleri
 
-- 💬 ChatGPT destekli sohbet ile doğal dilde öneri alma  
+- 💬 ChatBOT destekli sohbet ile doğal dilde öneri alma  
 - 🧩 Yaşa ve ilgi alanına göre oyun önerileri  
 - 🎥 Yaşa uygun eğitici video içerikleri  
 - 🌳 Hava durumu ve yaşa göre açık hava etkinlik önerileri  
-- 🔘 “Oyun Öner”, “Video Öner”, “Etkinlik Öner” gibi hızlı erişim butonları  
-- 🔍 Filtreleme ve kişiselleştirme modülleri  
+- 🔘 “Oyun Öner”, “Video Öner”, “Etkinlik Öner” gibi hızlı erişim butonları
+- 🔍 Kullanıcı geçmişini inceleyebilme  
 - 📱 Sade, kullanıcı dostu ve çocuklara hitap eden tasarım
 
 ---
 
 ## 👨‍👩‍👧‍👦 Kullanıcı Senaryosu
 
-> Ayşe Hanım, 6 yaşındaki oğlu için evde oynayabileceği sessiz oyunlar aramaktadır. FunFinder uygulamasını açıp sohbet kısmına “6 yaşında oğlum için sessiz ev oyunu öner” yazdığında, ChatGPT destekli sistem çeşitli öneriler sunar. Ayşe Hanım dilerse “Etkinlik Öner” butonuna da tıklayarak dış mekân alternatiflerini keşfedebilir. Uygulama önerilerini yaşa ve ilgi alanına göre şekillendirdiği için zaman kaybı yaşamadan kaliteli içeriklere ulaşır.
+> Ayşe Hanım, 6 yaşındaki oğlu için evde oynayabileceği sessiz oyunlar aramaktadır. FunFinder uygulamasını açıp sohbet kısmına “6 yaşında oğlum için sessiz ev oyunu öner” yazdığında, ChatGPT destekli sistem çeşitli öneriler sunar. Ayşe Hanım dilerse “Etkinlik Öner” butonuna da tıklayarak dış mekân alternatiflerini keşfedebilir. Uygulama önerilerini yaşa ve ilgi alanına göre şekillendirdiği için zaman kaybı yaşamadan kaliteli içeriklere ulaşır. 
 
 ---
 
@@ -44,8 +44,7 @@ FunFinder bu probleme çözüm olarak, ebeveynlerin tek tıkla çocuklarına öz
 - **Android Studio**  
 - **Kotlin**  
 - **Jetpack Compose** – Modern UI tasarımı  
-- **OpenRouter API** – Güncel içerik verisi sağlama  
-- **ChatGPT API** – Akıllı sohbet öneri sistemi  
+- **OpenRouter API** – Güncel içerik verisi sağlama   
 - **Firebase / Firestore** – Kullanıcı yönetimi ve veri saklama  
 - **Retrofit** – API bağlantıları için
 
