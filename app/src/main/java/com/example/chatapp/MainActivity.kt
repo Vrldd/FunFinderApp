@@ -18,7 +18,7 @@ import com.example.chatapp.activities.*
 import com.example.chatapp.network.*
 import com.example.openrouterdeneme.network.RetrofitInstance
 import kotlinx.coroutines.launch
-
+//
 class MainActivity : ComponentActivity() {
     private val apiKey = "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"
 
